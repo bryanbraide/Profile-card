@@ -25,9 +25,8 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-
 .logo{
-  width: 130px; 
+  width: 13px; 
 }
 
 nav ul li {
@@ -51,6 +50,5 @@ nav ul li a::after{
   position: absolute;
   left: 0;
   bottom: -6px;
-  transition: width 0.4s ease;
   
 }
